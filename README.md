@@ -7,7 +7,9 @@ The code in this repository is authored for computer-vision and machine-learning
 
 This project provides models trained using Microsoft Custom Vision to demonstrate Animal Species detection using video or images, for conservation projects in Botswana. Two demo Models are provided showing animal detection from a camera. Model may be found here: [Farm Animals](https://github.com/boticsai/Conservation/blob/main/Livestock.TensorFlow.zip) and [Wildlife Animals](https://github.com/boticsai/Conservation/blob/main/Conservation.TensorFlow.zip)
 
-
+## How To Use Model
+Model trained using Tensorflow Framework.
+In order to deploy model please follow the guides from [Google TensorFlow](https://www.tensorflow.org/)
 ## Model Performance
 
 Model 1 - Livestock
