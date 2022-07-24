@@ -16,7 +16,7 @@ Performance:
   <img width="460" height="300" src="https://github.com/boticsai/Conservation/blob/main/Performance/livestock-perform.PNG">
 </p>
 
-Labals:
+Classes:
 <p align="center">
   <img width="460" height="300" src="https://github.com/boticsai/Conservation/blob/main/Performance/Livestocks.PNG">
 </p>
@@ -28,7 +28,7 @@ Performance:
   <img width="460" height="300" src="https://github.com/boticsai/Conservation/blob/main/Performance/conservation-perfom.PNG">
 </p>
 
-Labals:
+Classes:
 <p align="center">
   <img width="460" height="300" src="https://github.com/boticsai/Conservation/blob/main/Performance/conservation.PNG">
 </p>
